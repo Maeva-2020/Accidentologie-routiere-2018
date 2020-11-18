@@ -2,14 +2,6 @@
 Cette étude porte sur l’accidentologie routière en France, en 2018, et s’articule sur l’impact des différentes conditions météorologiques, afin de déterminer si celles-ci jouent un rôle important ou non en tant que facteur d’accidentologie. 
 
 
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-
-
 **France – Accidentologie routière**
 
 **En 2018, quel a été l’impact des conditions météorologiques sur l’accidentologie routière ?  Quels ont été les usagers les plus impactés ?**
