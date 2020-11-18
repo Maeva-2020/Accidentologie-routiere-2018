@@ -179,13 +179,6 @@ Par la suite, c’est dans la préparation des données que nous avons rencontr�
 
 Enfin, concernant notre étude, il aurait été intéressant d’approfondir et préciser les facteurs d’accidentologie en incluant l’agenda des français (vacances, fêtes…), les horaires des accidents ainsi que les départements et la situation urbaine (zone rurale ou ville) dans lesquels ils se sont produits. A suivre...
 
-**A propos**
-
-Ce travail a été réalisé dans le cadre de l’enseignement "Données et Médiation" du master Métiers de l'information Sciences Po Aix/EJCAM, dispensé par Samuel Goëta. 
-
-Les hypothèses faites dans cet article doivent être prises avec précaution et nuancées, puisque ce travail n’est pas exhaustif et que d’autres données peuvent être prises en compte. 
-
-
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
