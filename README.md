@@ -178,7 +178,8 @@ Enfin, concernant notre étude, il aurait été intéressant d’approfondir et 
      <a target="_blank" rel="noopener noreferrer" href="https://meteofrance.com/comprendre-climat/france/le-climat-en-france-metropolitaine">https://meteofrance.com/comprendre-climat/france/le-climat-en-france-metropolitaine</a>
 
 [^2]:
-     [http://www.meteofrance.fr/climat-passe-et-futur/bilans-climatiques/bilan-2018/bilan-climatique-de-l-annee-2018#](http://www.meteofrance.fr/climat-passe-et-futur/bilans-climatiques/bilan-2018/bilan-climatique-de-l-annee-2018#) 
+     <a target="_blank" rel="noopener noreferrer" href="http://www.meteofrance.fr/climat-passe-et-futur/bilans-climatiques/bilan-2018/bilan-climatique-de-l-annee-2018#">http://www.meteofrance.fr/climat-passe-et-futur/bilans-climatiques/bilan-2018/bilan-climatique-de-l-annee-2018#</a>
 
 [^3]:
-     [http://www.meteo-express.com/brouillard-annuel.html](http://www.meteo-express.com/brouillard-annuel.html) 
+     <a target="_blank" rel="noopener noreferrer" href="http://www.meteo-express.com/brouillard-annuel.html">http://www.meteo-express.com/brouillard-annuel.html</a>
+
