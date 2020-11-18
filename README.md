@@ -6,7 +6,7 @@ En parallèle, nous avons focalisé l’analyse pour savoir quelle catégorie de
 
 Ainsi, qu’il pleuve, qu’il neige, qu’il vente, qu’il fasse beau ou qu’il y ait du brouillard, le nombre d’accidents a tendance à varier, et les usagers de la route ne vont pas être impactés de la même façon dans leur conduite, et ne se comportent pas de la même manière. La gravité même de l’accident serait en corrélation avec les conditions météorologiques.
 
-**Une base de données sur les accidents corporels de la circulation routière en 2018**
+# **Une base de données sur les accidents corporels de la circulation routière en 2018**
 
 Dans cette analyse, nous nous basons sur les données principales trouvées sur la [base de données des accidents corporels de la route](https://www.data.gouv.fr/en/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2019/#_) publiée annuellement par le ministère de l’Intérieur. Nous nous sommes concentrées sur 2018 pour étudier, le temps d’une année, l’impact des conditions météorologiques sur l’accidentologie routière.
 
@@ -135,7 +135,7 @@ Cependant, toutes conditions météorologiques confondues, ce sont les accidents
 
 Concernant les cyclistes, sans surprise, c’est en temps normal, que les accidents mortels ont le plus de risque de se produire, suivi des temps pluvieux et de vent fort, les temps favorables à la circulation de ce mode de transport, en contraste avec les temps de neige et de brouillard. 
 
-**Que nous enseigne cette analyse ? **
+**Que nous enseigne cette analyse ?**
 
 Pour conclure cette analyse, les conditions météorologiques sont, en effet, corrélées au taux d’accidents de la route, mais leurs effets comprennent des limites. 
 
