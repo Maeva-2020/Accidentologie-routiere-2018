@@ -175,7 +175,7 @@ Enfin, concernant notre étude, il aurait été intéressant d’approfondir et 
 ## Notes
 
 [^1]:
-     [https://meteofrance.com/comprendre-climat/france/le-climat-en-france-metropolitaine](https://meteofrance.com/comprendre-climat/france/le-climat-en-france-metropolitaine) 
+     <a target="_blank" rel="noopener noreferrer" href="https://meteofrance.com/comprendre-climat/france/le-climat-en-france-metropolitaine">https://meteofrance.com/comprendre-climat/france/le-climat-en-france-metropolitaine</a>
 
 [^2]:
      [http://www.meteofrance.fr/climat-passe-et-futur/bilans-climatiques/bilan-2018/bilan-climatique-de-l-annee-2018#](http://www.meteofrance.fr/climat-passe-et-futur/bilans-climatiques/bilan-2018/bilan-climatique-de-l-annee-2018#) 
