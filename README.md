@@ -103,7 +103,7 @@ Sachant que les conducteurs de voitures sont les usagers les plus fréquents sur
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](images/barres.png "image_tooltip")
 
 
 Ces premiers résultats laissent clairement entendre une influence des conditions météorologiques sur l’accidentologie routière en France en 2018 et du choix du mode de transport selon le temps. Selon celles-ci, les accidents impliquant certaines catégories d’usagers se font plus rares ou plus fréquents.
@@ -124,7 +124,7 @@ Cependant, cette visualisation ne fait que l’état des lieux de la répartitio
 <p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](images/courbes.png "image_tooltip")
 
 
 Les évolutions au fil des saisons du nombre d’accidents sont assez similaires chez les voitures et les cyclomotoristes. Chez les cyclistes, en revanche, elles sont plus constantes au fil de l’année. Concernant les deux catégories précédentes, il existe, au fil des saisons,  des pics d’accidents plus ou moins révélateurs : 
@@ -149,7 +149,7 @@ Pour les cyclistes, la courbe est plus linéaire. Comme déjà souligné, les cy
 <p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](images/gravite.png "image_tooltip")
 
 
 La proportion d’accidents de gravité “faible”, “élevée” ou “mortelle” est différente selon les conditions météorologiques en 2018. 
@@ -172,7 +172,7 @@ La condition météorologique pour laquelle le taux de mortalité est le plus fa
 <p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image5.png "image_tooltip")
+![alt_text](images/cercles.png "image_tooltip")
 La répartition de la mortalité selon les modes de déplacement, par conditions météorologiques, démontre que c’est par temps de vent fort que la catégorie des cyclomotoristes est la plus exposée. Cela pourrait être expliqué par l’effet “d’appel d’air” que subissent ces usagers qui entraînent très souvent des accidents considérables.
 
 _Petite explication_ : un deux-roues, une moto par exemple, a un centre de gravité différent des autres usagers et une prise au vent plus importante car il n’a pas de carrosserie intégrale. Le vent, lui, n’est pas linéaire et comprend des changements de force et de sens. Lorsqu’en plus, des éléments extérieurs tels que des constructions, de la végétation ou des véhicules sont présents, cela change la donne. Par exemple, lorsqu’une moto double deux poids lourds en temps de vent, le camion va faire office de coupe-vent pendant un moment mais entre les deux poids lourds, un appel d’air (repoussant ou aspirant) va avoir lieu, ce qui peut être déstabilisant si le motard n’anticipe pas cet effet physique. De plus, les deux-roues protègent moins les usagers qu’une voiture, l’accident a donc plus de risque d’être mortel, surtout avec la présence importante des glissières de sécurité au bord des routes qui sont de véritables “coupes gorges” pour ces usagers.
