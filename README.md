@@ -8,7 +8,7 @@ Ainsi, qu’il pleuve, qu’il neige, qu’il vente, qu’il fasse beau ou qu’
 
 ## **Une base de données sur les accidents corporels de la circulation routière en 2018**
 
-Dans cette analyse, nous nous basons sur les données principales trouvées sur la [base de données des accidents corporels de la route](https://www.data.gouv.fr/en/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2019/#_) publiée annuellement par le ministère de l’Intérieur. Nous nous sommes concentrées sur 2018 pour étudier, le temps d’une année, l’impact des conditions météorologiques sur l’accidentologie routière.
+Dans cette analyse, nous nous basons sur les données principales trouvées sur la <a target="_blank" rel="noopener noreferrer" href="https://www.data.gouv.fr/en/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2019/#_">TEST</a>[base de données des accidents corporels de la route](https://www.data.gouv.fr/en/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2019/#_) publiée annuellement par le ministère de l’Intérieur. Nous nous sommes concentrées sur 2018 pour étudier, le temps d’une année, l’impact des conditions météorologiques sur l’accidentologie routière.
 
 Depuis la base de données, nous avons utilisé les fichiers suivants :
 
