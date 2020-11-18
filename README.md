@@ -67,8 +67,8 @@ La majorité des accidents en 2018 ont impliqué au moins une voiture et se sont
 
 Sachant que les conducteurs de voitures sont les usagers les plus fréquents sur les routes, nous pouvons sur la base de cette visualisation émettre l’hypothèse que ces usagers sont moins attentifs à leur conduite et à la route quand les conditions météorologiques s’avèrent en réalité être plus favorables, ce qui pourrait expliquer les données.
 
-**Une répartition irrégulière des usagers de la route en fonction des conditions météorologiques \
-<span style="text-decoration:underline;">Répartition des victimes selon le mode de déplacement, par différentes conditions météorologiques, en 2018, en France, en pourcentages</span>**
+**Une répartition irrégulière des usagers de la route en fonction des conditions météorologiques** \
+<span style="text-decoration:underline;">Répartition des victimes selon le mode de déplacement, par différentes conditions météorologiques, en 2018, en France, en pourcentages</span>
 
 
 
@@ -84,8 +84,8 @@ Les accidents de la route impliquant au moins une voiture représentent les ¾ d
 
 Cependant, cette visualisation ne fait que l’état des lieux de la répartition des accidents qui se sont produits en 2018, selon le mode de déplacement, par les conditions météorologiques. Afin d’étudier l’impact réel des différentes conditions météorologiques sur le nombre même d’accidents, nous avons précisé notre étude.
 
-**La saisonnalité représentative de la météorologie : des usagers plus attentifs lors d’une météo capricieuse ? \
-<span style="text-decoration:underline;">Evolution du nombre d’accidents au cours de l’année 2018 en France, par catégorie de véhicules</span>** 
+**La saisonnalité représentative de la météorologie : des usagers plus attentifs lors d’une météo capricieuse ?** \
+<span style="text-decoration:underline;">Evolution du nombre d’accidents au cours de l’année 2018 en France, par catégorie de véhicules</span> 
 
 
 
@@ -104,8 +104,8 @@ En fin d’année, sur la période d’octobre à décembre, le nombre d’accid
 
 Pour les cyclistes, la courbe est plus linéaire. Comme déjà souligné, les cyclistes sont moins impactés par les conditions météorologiques, ceux-ci utilisant généralement peu ce moyen de transport en cas de temps capricieux.
 
-**Gravité de l’accidentologie : en cas de brouillard, 13% des accidents sont mortels \
-<span style="text-decoration:underline;">Proportion d’accidents de gravité faible, élevée ou mortels, par conditions météorologiques, en 2018, en France, en pourcentages</span>**
+**Gravité de l’accidentologie : en cas de brouillard, 13% des accidents sont mortels** \
+<span style="text-decoration:underline;">Proportion d’accidents de gravité faible, élevée ou mortels, par conditions météorologiques, en 2018, en France, en pourcentages</span>
 
 
 ![alt_text](images/gravite.png "image_tooltip")
@@ -121,8 +121,8 @@ Quand le temps est normal, plus de 60% des accidents sont de gravité faible, à
 
 La condition météorologique pour laquelle le taux de mortalité est le plus faible est la pluie (un peu moins de 5%) : les usagers sont davantage attentifs en cas de pluie.
 
-**Mortalité sur les routes : les cyclomotoristes plus impactés par temps de vent fort \
-<span style="text-decoration:underline;">Répartition de la mortalité, selon le mode de déplacement, par conditions météorologiques, en France, en 2018, en pourcentage</span>**
+**Mortalité sur les routes : les cyclomotoristes plus impactés par temps de vent fort** \
+<span style="text-decoration:underline;">Répartition de la mortalité, selon le mode de déplacement, par conditions météorologiques, en France, en 2018, en pourcentage</span>
 
 
 
@@ -135,7 +135,7 @@ Cependant, toutes conditions météorologiques confondues, ce sont les accidents
 
 Concernant les cyclistes, sans surprise, c’est en temps normal, que les accidents mortels ont le plus de risque de se produire, suivi des temps pluvieux et de vent fort, les temps favorables à la circulation de ce mode de transport, en contraste avec les temps de neige et de brouillard. 
 
-**Que nous enseigne cette analyse ?**
+## **Que nous enseigne cette analyse ?**
 
 Pour conclure cette analyse, les conditions météorologiques sont, en effet, corrélées au taux d’accidents de la route, mais leurs effets comprennent des limites. 
 
@@ -151,7 +151,7 @@ En 2018,
 *   En cas de brouillard, 13% des accidents sont mortels : c’est la condition météorologique qui cause le taux d’accidentologie mortel le plus élevé. 
 *   Les cyclomotoristes sont plus impactés en cas de vent fort : les appels d’air sont plus fréquents et plus compliqués à gérer pour ces usagers. 
 
-**Boîte noire**
+## **Boîte noire**
 
 **Méthodologie générale**
 
@@ -178,7 +178,7 @@ Enfin, concernant notre étude, il aurait été intéressant d’approfondir et 
      [https://meteofrance.com/comprendre-climat/france/le-climat-en-france-metropolitaine](https://meteofrance.com/comprendre-climat/france/le-climat-en-france-metropolitaine) 
 
 [^2]:
-     **Bilan climatique de 2018**[http://www.meteofrance.fr/climat-passe-et-futur/bilans-climatiques/bilan-2018/bilan-climatique-de-l-annee-2018#](http://www.meteofrance.fr/climat-passe-et-futur/bilans-climatiques/bilan-2018/bilan-climatique-de-l-annee-2018#) 
+     [http://www.meteofrance.fr/climat-passe-et-futur/bilans-climatiques/bilan-2018/bilan-climatique-de-l-annee-2018#](http://www.meteofrance.fr/climat-passe-et-futur/bilans-climatiques/bilan-2018/bilan-climatique-de-l-annee-2018#) 
 
 [^3]:
      [http://www.meteo-express.com/brouillard-annuel.html](http://www.meteo-express.com/brouillard-annuel.html) 
