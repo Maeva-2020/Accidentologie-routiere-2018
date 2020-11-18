@@ -10,9 +10,7 @@ Cette étude porte sur l’accidentologie routière en France, en 2018, et s’a
 <a href="#gdcalert5">alert5</a>
 
 
-
-
-**France – Accidentologie routière **
+**France – Accidentologie routière**
 
 **En 2018, quel a été l’impact des conditions météorologiques sur l’accidentologie routière ?  Quels ont été les usagers les plus impactés ?**
 
@@ -70,12 +68,6 @@ Pour comprendre l’étude qui suit, il faut avoir en tête qu’un accident pr�
 **Près des trois quarts des accidents de la route impliquent des voitures en condition météorologique dite normale \
 <span style="text-decoration:underline;">Nombre d’accidents corporels de la route en 2018 par véhicules, en fonction des conditions météorologiques</span>**
 
-&lt;div class="flourish-embed flourish-hierarchy" data-src="visualisation/4391411">&lt;script src="https://public.flourish.studio/resources/embed.js">&lt;/script>&lt;/div>
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](images/treemap.png "image_tooltip")
 
@@ -94,11 +86,7 @@ Sachant que les conducteurs de voitures sont les usagers les plus fréquents sur
 **Une répartition irrégulière des usagers de la route en fonction des conditions météorologiques \
 <span style="text-decoration:underline;">Répartition des victimes selon le mode de déplacement, par différentes conditions météorologiques, en 2018, en France, en pourcentages</span>**
 
-&lt;div class="flourish-embed flourish-chart" data-src="visualisation/4279979">&lt;script src="https://public.flourish.studio/resources/embed.js">&lt;/script>&lt;/div>
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/barres.png "image_tooltip")
@@ -115,11 +103,6 @@ Cependant, cette visualisation ne fait que l’état des lieux de la répartitio
 **La saisonnalité représentative de la météorologie : des usagers plus attentifs lors d’une météo capricieuse ? \
 <span style="text-decoration:underline;">Evolution du nombre d’accidents au cours de l’année 2018 en France, par catégorie de véhicules</span>** 
 
-&lt;div class="flourish-embed flourish-chart" data-src="visualisation/4278508">&lt;script src="https://public.flourish.studio/resources/embed.js">&lt;/script>&lt;/div>
-
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/courbes.png "image_tooltip")
@@ -140,12 +123,6 @@ Pour les cyclistes, la courbe est plus linéaire. Comme déjà souligné, les cy
 **Gravité de l’accidentologie : en cas de brouillard, 13% des accidents sont mortels \
 <span style="text-decoration:underline;">Proportion d’accidents de gravité faible, élevée ou mortels, par conditions météorologiques, en 2018, en France, en pourcentages</span>**
 
-&lt;div class="flourish-embed flourish-chart" data-src="visualisation/4278847">&lt;script src="https://public.flourish.studio/resources/embed.js">&lt;/script>&lt;/div>
-
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](images/gravite.png "image_tooltip")
 
@@ -163,11 +140,6 @@ La condition météorologique pour laquelle le taux de mortalité est le plus fa
 **Mortalité sur les routes : les cyclomotoristes plus impactés par temps de vent fort \
 <span style="text-decoration:underline;">Répartition de la mortalité, selon le mode de déplacement, par conditions météorologiques, en France, en 2018, en pourcentage</span>**
 
-&lt;div class="flourish-embed flourish-chart" data-src="visualisation/4280169">&lt;script src="https://public.flourish.studio/resources/embed.js">&lt;/script>&lt;/div>
-
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/cercles.png "image_tooltip")
