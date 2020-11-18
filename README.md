@@ -50,7 +50,7 @@ Pour la gravité de l’accidentologie, nous les avons regroupé  sous 3 grandes
 Pour comprendre l’étude qui suit, il faut avoir en tête qu’un accident présenté comme Accident de voiture est un accident au sein duquel au moins une voiture a été impliquée; un accident de cycliste est un accident au sein duquel au moins un cycliste a été impliqué; un accident de motocycliste est un accident au sein duquel au moins un motocycliste a été impliqué. Cela implique la présence possible d’une catégorie similaire ou différente de véhicule impliqué dans ce même accident. De ce fait, il en est de même concernant la gravité de l’accidentologie. Ex: Un accident de voiture mortel est un accident au sein duquel au moins une voiture a été impliqué et au moins un usager a été tué. Il peut s’agir de l’usager de la voiture, comme il peut s’agir de l’usager de l’autre catégorie de véhicule impliqué dans l’accident. Voilà les limites de notre étude.
 
 **Près des trois quarts des accidents de la route impliquent des voitures en condition météorologique dite normale** \
-<span style="text-decoration:underline;font-size:10px;">Nombre d’accidents corporels de la route en 2018 par véhicules, en fonction des conditions météorologiques</span>
+<span style="text-decoration:underline;font-size:15px;">Nombre d’accidents corporels de la route en 2018 par véhicules, en fonction des conditions météorologiques</span>
 
 
 ![alt_text](images/treemap.png "image_tooltip")
@@ -68,7 +68,7 @@ La majorité des accidents en 2018 ont impliqué au moins une voiture et se sont
 Sachant que les conducteurs de voitures sont les usagers les plus fréquents sur les routes, nous pouvons sur la base de cette visualisation émettre l’hypothèse que ces usagers sont moins attentifs à leur conduite et à la route quand les conditions météorologiques s’avèrent en réalité être plus favorables, ce qui pourrait expliquer les données.
 
 **Une répartition irrégulière des usagers de la route en fonction des conditions météorologiques** \
-<span style="text-decoration:underline;">Répartition des victimes selon le mode de déplacement, par différentes conditions météorologiques, en 2018, en France, en pourcentages</span>
+<span style="text-decoration:underline;font-size:15px;">Répartition des victimes selon le mode de déplacement, par différentes conditions météorologiques, en 2018, en France, en pourcentages</span>
 
 
 
@@ -85,7 +85,7 @@ Les accidents de la route impliquant au moins une voiture représentent les ¾ d
 Cependant, cette visualisation ne fait que l’état des lieux de la répartition des accidents qui se sont produits en 2018, selon le mode de déplacement, par les conditions météorologiques. Afin d’étudier l’impact réel des différentes conditions météorologiques sur le nombre même d’accidents, nous avons précisé notre étude.
 
 **La saisonnalité représentative de la météorologie : des usagers plus attentifs lors d’une météo capricieuse ?** \
-<span style="text-decoration:underline;">Evolution du nombre d’accidents au cours de l’année 2018 en France, par catégorie de véhicules</span> 
+<span style="text-decoration:underline;font-size:15px;">Evolution du nombre d’accidents au cours de l’année 2018 en France, par catégorie de véhicules</span> 
 
 
 
@@ -105,7 +105,7 @@ En fin d’année, sur la période d’octobre à décembre, le nombre d’accid
 Pour les cyclistes, la courbe est plus linéaire. Comme déjà souligné, les cyclistes sont moins impactés par les conditions météorologiques, ceux-ci utilisant généralement peu ce moyen de transport en cas de temps capricieux.
 
 **Gravité de l’accidentologie : en cas de brouillard, 13% des accidents sont mortels** \
-<span style="text-decoration:underline;">Proportion d’accidents de gravité faible, élevée ou mortels, par conditions météorologiques, en 2018, en France, en pourcentages</span>
+<span style="text-decoration:underline;font-size:15px;">Proportion d’accidents de gravité faible, élevée ou mortels, par conditions météorologiques, en 2018, en France, en pourcentages</span>
 
 
 ![alt_text](images/gravite.png "image_tooltip")
@@ -122,7 +122,7 @@ Quand le temps est normal, plus de 60% des accidents sont de gravité faible, à
 La condition météorologique pour laquelle le taux de mortalité est le plus faible est la pluie (un peu moins de 5%) : les usagers sont davantage attentifs en cas de pluie.
 
 **Mortalité sur les routes : les cyclomotoristes plus impactés par temps de vent fort** \
-<span style="text-decoration:underline;">Répartition de la mortalité, selon le mode de déplacement, par conditions météorologiques, en France, en 2018, en pourcentage</span>
+<span style="text-decoration:underline;font-size:15px;">Répartition de la mortalité, selon le mode de déplacement, par conditions météorologiques, en France, en 2018, en pourcentage</span>
 
 
 
