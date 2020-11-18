@@ -193,7 +193,7 @@ Les hypothèses faites dans cet article doivent être prises avec précaution et
      [https://meteofrance.com/comprendre-climat/france/le-climat-en-france-metropolitaine](https://meteofrance.com/comprendre-climat/france/le-climat-en-france-metropolitaine) 
 
 [^2]:
-     **Bilan climatique de 2018 **[http://www.meteofrance.fr/climat-passe-et-futur/bilans-climatiques/bilan-2018/bilan-climatique-de-l-annee-2018#](http://www.meteofrance.fr/climat-passe-et-futur/bilans-climatiques/bilan-2018/bilan-climatique-de-l-annee-2018#) 
+     **Bilan climatique de 2018**[http://www.meteofrance.fr/climat-passe-et-futur/bilans-climatiques/bilan-2018/bilan-climatique-de-l-annee-2018#](http://www.meteofrance.fr/climat-passe-et-futur/bilans-climatiques/bilan-2018/bilan-climatique-de-l-annee-2018#) 
 
 [^3]:
      [http://www.meteo-express.com/brouillard-annuel.html](http://www.meteo-express.com/brouillard-annuel.html) 
