@@ -67,7 +67,7 @@ La majorité des accidents en 2018 ont impliqué au moins une voiture et se sont
 
 Sachant que les conducteurs de voitures sont les usagers les plus fréquents sur les routes, nous pouvons sur la base de cette visualisation émettre l’hypothèse que ces usagers sont moins attentifs à leur conduite et à la route quand les conditions météorologiques s’avèrent en réalité être plus favorables, ce qui pourrait expliquer les données.
 
-**Une répartition irrégulière des usagers de la route en fonction des conditions météorologiques** \
+**<span style="font-size:18px;">Une répartition irrégulière des usagers de la route en fonction des conditions météorologiques</span>** \
 <span style="text-decoration:underline;font-size:15px;">Répartition des victimes selon le mode de déplacement, par différentes conditions météorologiques, en 2018, en France, en pourcentages</span>
 
 
