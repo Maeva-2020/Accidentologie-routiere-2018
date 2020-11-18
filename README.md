@@ -8,7 +8,7 @@ Ainsi, qu’il pleuve, qu’il neige, qu’il vente, qu’il fasse beau ou qu’
 
 ## **Une base de données sur les accidents corporels de la circulation routière en 2018**
 
-Dans cette analyse, nous nous basons sur les données principales trouvées sur la <a target="_blank" rel="noopener noreferrer" href="https://www.data.gouv.fr/en/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2019/#_">TEST</a>[base de données des accidents corporels de la route](https://www.data.gouv.fr/en/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2019/#_) publiée annuellement par le ministère de l’Intérieur. Nous nous sommes concentrées sur 2018 pour étudier, le temps d’une année, l’impact des conditions météorologiques sur l’accidentologie routière.
+Dans cette analyse, nous nous basons sur les données principales trouvées sur la <a target="_blank" rel="noopener noreferrer" href="https://www.data.gouv.fr/en/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2019/#_">base de données des accidents corporels de la route</a> publiée annuellement par le ministère de l’Intérieur. Nous nous sommes concentrées sur 2018 pour étudier, le temps d’une année, l’impact des conditions météorologiques sur l’accidentologie routière.
 
 Depuis la base de données, nous avons utilisé les fichiers suivants :
 
@@ -159,7 +159,7 @@ Les recherches des données sur l’accidentologie routière se sont déroulées
 
 La problématique que l’on a rencontré à ce niveau était d’obtenir un fichier en CSV pouvant être lu par tous les sites de visualisation de données. Nous avons dû faire des manipulations pour le rendre utilisable. Ce but en tête, nous avons utilisé l’outil _WorkBenchData_ pour pouvoir réunir au même endroit toutes les données que nous avions recueillies. Nous avons également utilisé Excel, afin de remanier notre fichier dans les conditions adaptées à chacune des visualisations utilisées ci-dessus. 
 
-Nous avons commencé notre démarche par faire une visualisation sous forme de dessins, pour voir quelles étaient nos hypothèses, et quels types de visualisation seraient intéressantes pour répondre à notre sujet. C’est à partir de là que le choix des sites de data-visualisation ont été instinctifs. _Flourish _a été l’outil le plus simple pour nous pour effectuer nos visualisations. 
+Nous avons commencé notre démarche par faire une visualisation sous forme de dessins, pour voir quelles étaient nos hypothèses, et quels types de visualisation seraient intéressantes pour répondre à notre sujet. C’est à partir de là que le choix des sites de data-visualisation ont été instinctifs. _Flourish_ a été l’outil le plus simple pour nous pour effectuer nos visualisations. 
 
 **Limites**
 
@@ -167,7 +167,7 @@ Tout au long de notre projet, nous avons rencontré de nombreux obstacles que no
 
 Tout d’abord, nous avons rencontré des difficultés dans la recherche de données à exploiter. Nous voulions étudier l’impact de la grève des transports de la part de la SNCF/RATP de décembre 2019 sur l’accidentologie routière en Île-de-France. L’absence partielle voire totale de transports en commun semblait intéressante à étudier. Une augmentation du trafic en Ile-de-France ? Une augmentation de l’accidentologie routière durant cette période de grève ? Voilà des questions auxquelles nous aurions aimé répondre à l’issue de notre étude. Cependant, nous ne trouvions que des données non exploitables (formats pdf, etc). De plus, les sites officiels du ministère de l’intérieur (_data.gouv_) n’étaient pas mis à jour. Nous avons donc décidé de changer de sujet et d’étudier l’impact de la saisonnalité et de la météorologie sur l’accidentologie routière en France, en 2018.
 
-Par la suite, c’est dans la préparation des données que nous avons rencontré des difficultés. Rassembler toutes les données trouvées au même endroit, les harmoniser, recoder, mettre en forme dans le but de les rendre exploitables s’est avéré être plus compliqué que prévu. Nous avons notamment dû apprendre à utiliser des logiciels jusqu’alors inconnus des membres de notre groupe, notamment_ WorkbenchData_. Il a également fallu développer une compréhension profonde de la statistique, pour manipuler nos données avec justesse, et utiliser les visualisations adaptées, pour faire passer notre message.
+Par la suite, c’est dans la préparation des données que nous avons rencontré des difficultés. Rassembler toutes les données trouvées au même endroit, les harmoniser, recoder, mettre en forme dans le but de les rendre exploitables s’est avéré être plus compliqué que prévu. Nous avons notamment dû apprendre à utiliser des logiciels jusqu’alors inconnus des membres de notre groupe, notamment _WorkbenchData_. Il a également fallu développer une compréhension profonde de la statistique, pour manipuler nos données avec justesse, et utiliser les visualisations adaptées, pour faire passer notre message.
 
 Enfin, concernant notre étude, il aurait été intéressant d’approfondir et préciser les facteurs d’accidentologie en incluant l’agenda des français (vacances, fêtes…), les horaires des accidents ainsi que les départements et la situation urbaine (zone rurale ou ville) dans lesquels ils se sont produits. A suivre...
 
