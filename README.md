@@ -49,8 +49,8 @@ Pour la gravité de l’accidentologie, nous les avons regroupé  sous 3 grandes
 
 Pour comprendre l’étude qui suit, il faut avoir en tête qu’un accident présenté comme Accident de voiture est un accident au sein duquel au moins une voiture a été impliquée; un accident de cycliste est un accident au sein duquel au moins un cycliste a été impliqué; un accident de motocycliste est un accident au sein duquel au moins un motocycliste a été impliqué. Cela implique la présence possible d’une catégorie similaire ou différente de véhicule impliqué dans ce même accident. De ce fait, il en est de même concernant la gravité de l’accidentologie. Ex: Un accident de voiture mortel est un accident au sein duquel au moins une voiture a été impliqué et au moins un usager a été tué. Il peut s’agir de l’usager de la voiture, comme il peut s’agir de l’usager de l’autre catégorie de véhicule impliqué dans l’accident. Voilà les limites de notre étude.
 
-### **Près des trois quarts des accidents de la route impliquent des voitures en condition météorologique dite normale** \
-<span style="text-decoration:underline;">Nombre d’accidents corporels de la route en 2018 par véhicules, en fonction des conditions météorologiques</span>
+**Près des trois quarts des accidents de la route impliquent des voitures en condition météorologique dite normale** \
+<span style="text-decoration:underline;font-size:10px;">Nombre d’accidents corporels de la route en 2018 par véhicules, en fonction des conditions météorologiques</span>
 
 
 ![alt_text](images/treemap.png "image_tooltip")
