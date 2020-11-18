@@ -1,11 +1,3 @@
-# Accidentologie-routiere-2018
-Cette étude porte sur l’accidentologie routière en France, en 2018, et s’articule sur l’impact des différentes conditions météorologiques, afin de déterminer si celles-ci jouent un rôle important ou non en tant que facteur d’accidentologie. 
-
-
-**France – Accidentologie routière**
-
-**En 2018, quel a été l’impact des conditions météorologiques sur l’accidentologie routière ?  Quels ont été les usagers les plus impactés ?**
-
 Après quatre années de stagnation ou de hausse de la mortalité routière en France, l’année 2018 apparaît comme l’année durant laquelle les statistiques de la Sécurité Routière ont enregistré les taux de mortalité les plus bas de son histoire. Cependant, tous les usagers ne sont pas épargnés au même titre.
 
 Cette étude porte sur l’accidentologie routière en France, en 2018, et s’articule sur l’impact des différentes conditions météorologiques, afin de déterminer si celles-ci jouent un rôle important ou non en tant que facteur d’accidentologie. 
